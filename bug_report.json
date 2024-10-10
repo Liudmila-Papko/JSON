@@ -4,14 +4,12 @@
   "Severity":"Critical",
   "Environment":"Win 11 Chrome 129",
   "Title":"Button [Login] on the search page is automatically refresh the page",
-  "Steps":"1. Navigate to Capital.com
-  2. Click on button [Search] and press Enter
-  3. Click button [Login]"
+  "Steps":"1. Navigate to Capital.com 2. Click on button [Search] and press Enter 3. Click button [Login]"
   "Expected Results":"Login form is opened",
   "Actual Results":"The page is refreshing",
   "Attachment":"Link",
   "Author":"Name",
-  "Status":"New",
+  "Status":"Opened",
   "Bug comments":"null"
 
 }
