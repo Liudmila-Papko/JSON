@@ -9,14 +9,14 @@
 #### 4. Создать внешний репозиторий c названием JSON.
 - перейти по ссылке https://github.com/Liudmila-Papko?tab=repositories
 - нажать кнопку New
-- ввести Repository name (JOSN)
+- ввести Repository name (JSON)
 - выбрать Public
 - выбрать Add a README file
 - нажать Create repository
 - скопировать HTTPS
 #### 5. Клонировать репозиторий JSON на локальный компьютер.
   ``` 
-- git clone https://github.com/Liudmila-Papko/JSON.git
+git clone https://github.com/Liudmila-Papko/JSON.git
   ```
 #### 6. Внутри локального JSON создать файл “new.json”. 
 ```
